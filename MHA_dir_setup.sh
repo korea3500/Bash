@@ -1,4 +1,5 @@
 #!/bin/bash
+# dummy test comment 2025_11_07
 
 if [ ! -e "$(pwd)/.env.ini" ]; then
   echo "[Failed] Cannot find .etv.ini file !!! Please check file location."
