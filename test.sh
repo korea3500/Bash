@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# test on bash(2025_11_07)
+
 set -euo pipefail
 
 SLOW_RESULT_FILE="/MARIA_LOG/slow/mysql-slow-query.log"
